@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\vainiyasoft\MisContactos\app\libs\jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.0-f7e242ef36fc0ff1675323ffcf58bb928155f07c.jar" />
+    </item>
+    <item
+        jar="D:\Android\vainiyasoft\MisContactos\app\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="00b3081e1074bf380cc1d09d6ef4f8e5415311f2">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-c0d60f1bbca992bec72ccaadafd1085cada193ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toshiba\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\16.0.1\5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5\guava-16.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\guava-16.0.1-11decff507d53a5a65a12e28157bf98d404f5af1.jar" />
+    </item>
+    <item
+        jar="D:\Android\vainiyasoft\MisContactos\app\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9e45246f4a068cad94e03f34bf8f24358279a7f7">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-4aa0e28b06fdb57c8a19ca97f7941ea0fbb0a39b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toshiba\.gradle\caches\modules-2\files-2.1\com.tojc.ormlite.android\ormlite-content-provider-library\1.0.4\8b873eea07437730d9f6afdd52b9965b5ae0963f\ormlite-content-provider-library-1.0.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8b873eea07437730d9f6afdd52b9965b5ae0963f">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\ormlite-content-provider-library-1.0.4-2b469b9e1d27616a989b7fa1899943d0f3f88d33.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toshiba\.gradle\caches\modules-2\files-2.1\com.squareup.dagger\dagger\1.1.0\49f2061c938987c8e56679a731d74fd8448d8742\dagger-1.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="49f2061c938987c8e56679a731d74fd8448d8742">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\dagger-1.1.0-0d33b938aaf470f7accc94d7088ed247d5e48cca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toshiba\.gradle\caches\modules-2\files-2.1\com.tojc.ormlite.android\ormlite-content-provider-compiler\1.0.4\63ac7704ccd3d6ebb2da9575b8762125a083cef5\ormlite-content-provider-compiler-1.0.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="63ac7704ccd3d6ebb2da9575b8762125a083cef5">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\ormlite-content-provider-compiler-1.0.4-2a55288b5c762860195093abee9110e0196dcfb8.jar" />
+    </item>
+    <item
+        jar="D:\Android\vainiyasoft\MisContactos\app\libs\jackson-databind-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="473e063d6396a1ff6e4b9c7943e604291ce18b07">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\jackson-databind-2.4.0-3717ed7a53f6eec5fa2f2904118a342d4def4296.jar" />
+    </item>
+    <item
+        jar="D:\Android\vainiyasoft\MisContactos\app\libs\jackson-core-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\jackson-core-2.4.0-33b0f9a7c04dc0add13b77b8e1b63958d4721339.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toshiba\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Android\vainiyasoft\MisContactos\app\build\intermediates\pre-dexed\debug\javax.inject-1-e539905e19175d44324ec7d027729030f1b75bba.jar" />
+    </item>
+
+</items>
